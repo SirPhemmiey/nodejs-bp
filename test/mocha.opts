@@ -1,0 +1,7 @@
+--silly
+--recursive
+--reporter spec
+--timeout 10000
+--growl
+--check-leaks
+--exit
